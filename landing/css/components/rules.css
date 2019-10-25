@@ -1,0 +1,13 @@
+.container-rules {
+  width: 700px;
+  height: 800px;
+  border: 2px solid black;
+  text-align: center;
+  margin: 0 auto;
+}
+
+p {
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 150px;
+  padding-right: 150px;
+}
